@@ -59,7 +59,7 @@ A simple Python-based cybersecurity project that detects phishing emails using s
 
 ```bash
 pip install matplotlib reportlab
-python main.py
+python phishingemail.py
 ```
 
 ## Sample Output
