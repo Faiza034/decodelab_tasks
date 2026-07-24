@@ -61,7 +61,9 @@ A simple Python-based cybersecurity project that detects phishing emails using s
 pip install matplotlib reportlab
 python phishingemail.py
 ```
+![safe email](screenshots/safe.png)
 
+![fake email](screenshots/spam.png)
 ## Sample Output
 
 - ✅ Safe Email
